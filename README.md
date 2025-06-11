@@ -42,6 +42,7 @@ The aim of this analysis is to predict whether a client will subscribe to a term
 - **Recall (Subscribed):** 80%
 
 - **Confusion Matrix:** 
+  
   [[997 178]  
   [208 850]]
 
@@ -90,6 +91,7 @@ To evaluate how well we can predict deposit outcomes using **only one feature**,
 - **Precision (Subscribed):** 76%
 - **Recall (Subscribed):** 59%
 - **Confusion Matrix:** 
+  
   [[812 363]  
   [435 623]]
 
