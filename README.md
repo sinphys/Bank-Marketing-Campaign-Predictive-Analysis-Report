@@ -34,9 +34,13 @@ The aim of this analysis is to predict whether a client will subscribe to a term
 ## 5. Full Feature Logistic Regression Model
 
 - **Model:** Logistic Regression
+
 - **Accuracy:** **82.7%**
+
 - **Precision (Subscribed):** 83%
+
 - **Recall (Subscribed):** 80%
+
 - **Confusion Matrix:** 
   [[997 178]  
   [208 850]]
@@ -67,6 +71,7 @@ The aim of this analysis is to predict whether a client will subscribe to a term
 - The feature most correlated with `deposit` was:
 - **duration** with a Pearson correlation of **0.4519**
 - This makes intuitive sense — longer calls may indicate more engaged or interested clients.
+- 
 
 ![](./fig/bar_subscription.png?msec=1749648124189)
 
