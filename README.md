@@ -95,6 +95,8 @@ To evaluate how well we can predict deposit outcomes using **only one feature**,
   [[812 363]  
   [435 623]]
 
+$\begin{bmatrix}   812 & 363\\   435 & 623   \end{bmatrix}$
+
 ### ✅ Insights:
 
 - While `duration` alone performs decently, especially in precision, it suffers from **lower recall**, meaning it misses many potential subscribers.
