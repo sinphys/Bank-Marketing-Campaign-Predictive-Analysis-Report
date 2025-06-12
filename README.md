@@ -13,8 +13,9 @@ The aim of this analysis is to predict whether a client will subscribe to a term
   - Yes: 5,289 clients (47.4%)
   - No: 5,873 clients (52.6%)  
   
-  
+
   ![](./fig/bar_subscription.png?msec=1749648124189?msec=1749690190556)
+
   
   ![](./fig/plot_subscription_pie.png?msec=1749648207819?msec=1749690190555)
 
@@ -75,7 +76,9 @@ The aim of this analysis is to predict whether a client will subscribe to a term
 ## 7. Key Feature Correlation
 
 - The feature most correlated with `deposit` was:
+
 - **duration** with a Pearson correlation of **0.4519**
+
 - This makes intuitive sense — longer calls may indicate more engaged or interested clients.
   
   ![](./fig/plot_model_metrics.png?msec=1749648254335)
