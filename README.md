@@ -11,18 +11,10 @@ The aim of this analysis is to predict whether a client will subscribe to a term
 - **Total Clients:** 11,162
 - **Subscribed to Term Deposit:**
   - Yes: 5,289 clients (47.4%)
-  - No: 5,873 clients (52.6%)
+  - No: 5,873 clients (52.6%)  
   
   
-  
-  
-  
-  <img title="" src="./fig/bar_subscription.png?msec=1749648124189?msec=1749690190556" alt="" data-align="inline">
-  
-  
-  
-  
-  
+  ![](./fig/bar_subscription.png?msec=1749648124189?msec=1749690190556)
   ![](./fig/plot_subscription_pie.png?msec=1749648207819?msec=1749690190555)
 
 ---
