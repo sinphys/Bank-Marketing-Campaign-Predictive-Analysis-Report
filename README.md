@@ -12,11 +12,9 @@ The aim of this analysis is to predict whether a client will subscribe to a term
 - **Subscribed to Term Deposit:**
   - Yes: 5,289 clients (47.4%)
   - No: 5,873 clients (52.6%)  
-  
 
   ![](./fig/bar_subscription.png?msec=1749648124189?msec=1749690190556)
 
-  
   ![](./fig/plot_subscription_pie.png?msec=1749648207819?msec=1749690190555)
 
 ---
@@ -115,3 +113,5 @@ To evaluate how well we can predict deposit outcomes using **only one feature**,
 - `duration` is the strongest single predictor and alone achieves ~71.8% accuracy.
 - However, relying on one feature limits recall and generalization.
 - **Recommendation:** Use the full model for production or decision-making, but highlight `duration` as a key influencing feature for marketing strategy.
+
+All code and plots were generated using this notebook: [notebooks/analysis.ipynb](./notebooks/analysis.ipynb)
