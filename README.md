@@ -12,6 +12,16 @@ The aim of this analysis is to predict whether a client will subscribe to a term
 - **Subscribed to Term Deposit:**
   - Yes: 5,289 clients (47.4%)
   - No: 5,873 clients (52.6%)
+  
+  
+  
+  <img title="" src="file:///media/sina/Sina/Yandex_sync/Me-online/Github/Bank-Marketing-Campaign-Predictive-Analysis-Report/fig/bar_subscription.png?msec=1749648124189?msec=1749690190556" alt="" data-align="inline">
+  
+  
+  
+  
+  
+  ![](file:///media/sina/Sina/Yandex_sync/Me-online/Github/Bank-Marketing-Campaign-Predictive-Analysis-Report/fig/plot_subscription_pie.png?msec=1749648207819?msec=1749690190555)
 
 ---
 
@@ -72,13 +82,8 @@ The aim of this analysis is to predict whether a client will subscribe to a term
 - The feature most correlated with `deposit` was:
 - **duration** with a Pearson correlation of **0.4519**
 - This makes intuitive sense — longer calls may indicate more engaged or interested clients.
-- 
-
-![](./fig/bar_subscription.png?msec=1749648124189)
-
-![](./fig/plot_subscription_pie.png?msec=1749648207819)
-
-![](./fig/plot_model_metrics.png?msec=1749648254335)
+  
+  ![](./fig/plot_model_metrics.png?msec=1749648254335)
 
 ---
 
@@ -87,15 +92,17 @@ The aim of this analysis is to predict whether a client will subscribe to a term
 To evaluate how well we can predict deposit outcomes using **only one feature**, we trained a logistic regression model using just `duration`.
 
 - **Feature Used:** `duration`
+
 - **Accuracy:** **71.8%**
+
 - **Precision (Subscribed):** 76%
+
 - **Recall (Subscribed):** 59%
+
 - **Confusion Matrix:** 
   
   [[812 363]  
   [435 623]]
-
-
 
 ### ✅ Insights:
 
