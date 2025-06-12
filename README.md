@@ -15,13 +15,13 @@ The aim of this analysis is to predict whether a client will subscribe to a term
   
   
   
-  <img title="" src="file:///media/sina/Sina/Yandex_sync/Me-online/Github/Bank-Marketing-Campaign-Predictive-Analysis-Report/fig/bar_subscription.png?msec=1749648124189?msec=1749690190556" alt="" data-align="inline">
+  <img title="" src="./fig/bar_subscription.png?msec=1749648124189?msec=1749690190556" alt="" data-align="inline">
   
   
   
   
   
-  ![](file:///media/sina/Sina/Yandex_sync/Me-online/Github/Bank-Marketing-Campaign-Predictive-Analysis-Report/fig/plot_subscription_pie.png?msec=1749648207819?msec=1749690190555)
+  ![](./fig/plot_subscription_pie.png?msec=1749648207819?msec=1749690190555)
 
 ---
 
