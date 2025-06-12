@@ -15,6 +15,8 @@ The aim of this analysis is to predict whether a client will subscribe to a term
   
   
   
+  
+  
   <img title="" src="./fig/bar_subscription.png?msec=1749648124189?msec=1749690190556" alt="" data-align="inline">
   
   
