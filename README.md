@@ -9,12 +9,14 @@ The aim of this analysis is to predict whether a client will subscribe to a term
 ## 2. Dataset Overview
 
 - **Total Clients:** 11,162
+
 - **Subscribed to Term Deposit:**
+  
   - Yes: 5,289 clients (47.4%)
   - No: 5,873 clients (52.6%)  
-
+  
   ![](./fig/bar_subscription.png?msec=1749648124189?msec=1749690190556)
-
+  
   ![](./fig/plot_subscription_pie.png?msec=1749648207819?msec=1749690190555)
 
 ---
@@ -51,6 +53,8 @@ The aim of this analysis is to predict whether a client will subscribe to a term
   [208 850]]
 
 - **Cross-validation Accuracy (5-fold):** 78.6% ± 3.4%
+  
+  ![](./fig/plot_model_metrics.png?msec=1749648254335)
 
 ---
 
@@ -78,8 +82,6 @@ The aim of this analysis is to predict whether a client will subscribe to a term
 - **duration** with a Pearson correlation of **0.4519**
 
 - This makes intuitive sense — longer calls may indicate more engaged or interested clients.
-  
-  ![](./fig/plot_model_metrics.png?msec=1749648254335)
 
 ---
 
